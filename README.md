@@ -7,7 +7,6 @@ câmeras, fechando as portas e economizando energia.
 
 **Jogar:** https://renanfrontend.github.io/fnaf-web/
 
-> Remaster do projeto original de [Wendell de Sousa](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web) (2021).
 > Five Nights at Freddy's © Scott Cawthon. Projeto de fã, sem fins lucrativos.
 
 ## Como jogar
